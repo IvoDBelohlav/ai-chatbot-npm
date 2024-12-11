@@ -1,0 +1,16 @@
+{
+    "messages": [
+      {
+        "role": "system",
+        "content": "Jsi profesionální poradce v obchodě se šperky. Poskytuj přesné, informativní a detailní odpovědi."
+      },
+      {
+        "role": "user",
+        "content": "Kolik stojí zlatý prsten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cena zlatého prstenu může být značně variabilní a závisí na několika klíčových faktorech:\n\n1. Ryzost zlata (9K, 14K, 18K, 24K)\n- Čím vyšší karát, tím vyšší cena\n\n2. Hmotnost prstenu\n- Těžší prsteny jsou dražší\n\n3. Design a zpracování\n- Ruční práce zvyšuje cenu\n\n4. Drahokamy\n- Typ, velikost a kvalita kamenů ovlivňují cenu\n\nOrientační cenové rozmezí:\n- Základní model: 5 000 - 15 000 Kč\n- Střední řada: 15 000 - 50 000 Kč\n- Luxusní design: 50 000 - 200 000 Kč"
+      }
+    ]
+  }

@@ -1,0 +1,43 @@
+[
+    {
+      "id": "prsten_001",
+      "name": "Prsten z nerezové oceli",
+      "price": 799,
+      "material": "nerezová ocel",
+      "size_options": ["7", "8", "9", "10", "11"],
+      "description": "Elegantní a odolný prsten vyrobený z vysoce kvalitní nerezové oceli. Ideální pro každodenní nošení."
+    },
+    {
+      "id": "prsten_002",
+      "name": "Zlatý prsten s diamantem",
+      "price": 2500,
+      "material": "zlato",
+      "size_options": ["6", "7", "8", "9", "10"],
+      "description": "Luxusní zlatý prsten osázený diamantem. Perfektní volba pro zvláštní příležitosti."
+    },
+    {
+      "id": "nahrdelnik_001",
+      "name": "Stříbrný náhrdelník s perlou",
+      "price": 1200,
+      "material": "stříbro, perla",
+      "size_options": ["Standardní délka"],
+      "description": "Elegantní náhrdelník z 925 stříbra s krásnou perlou, ideální pro večerní události."
+    },
+    {
+      "id": "naramek_001",
+      "name": "Kožený náramek s ocelovým sponou",
+      "price": 699,
+      "material": "kožený, nerezová ocel",
+      "size_options": ["S", "M", "L"],
+      "description": "Stylový kožený náramek s nerezovou ocelí. Vhodný pro každodenní nošení."
+    },
+    {
+      "id": "nausnice_001",
+      "name": "Náušnice ze zlata",
+      "price": 999,
+      "material": "zlato",
+      "size_options": ["Jedna velikost"],
+      "description": "Delikátní zlaté náušnice s jemným designem. Perfektní pro každodenní nošení nebo na speciální příležitosti."
+    }
+  ]
+  
