@@ -7,7 +7,7 @@
     "server": "nodemon src/backend/server.js",
     "client": "react-scripts start",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "build": "webpack --config webpack.config.js"
+    "build": "CI=false webpack --config webpack.config.js"
   },
   "keywords": [],
   "author": "",
